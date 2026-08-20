@@ -1,0 +1,18 @@
+<svg width="232" height="54" viewBox="0 0 232 54" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="KonturSMM logo">
+  <defs>
+    <linearGradient id="logoGradientWhite" x1="4" y1="2" x2="52" y2="52" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7EDBFF"/>
+      <stop offset="0.5" stop-color="#1B7CFF"/>
+      <stop offset="1" stop-color="#0B2BD8"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <rect x="4" y="5" width="44" height="44" rx="14" fill="url(#logoGradientWhite)"/>
+    <path d="M32.8 10.8L42.8 11.4L39.9 21.1L18.6 42.1L12.7 44.3L14.9 38.4L32.8 10.8Z" fill="white"/>
+    <path d="M33.1 11.6L30.1 25.2L39.6 21" stroke="#CFEAFF" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M12.9 44C21.4 44 29.4 41.6 36.6 36.6" stroke="white" stroke-width="2.6" stroke-linecap="round"/>
+  </g>
+  <text x="60" y="31" fill="#FFFFFF" font-family="Inter, Manrope, Arial, sans-serif" font-size="25" font-weight="800" letter-spacing="-0.05em">Kontur</text>
+  <text x="141" y="31" fill="#7EDBFF" font-family="Inter, Manrope, Arial, sans-serif" font-size="25" font-weight="800" letter-spacing="-0.05em">SMM</text>
+  <text x="61" y="45" fill="#BBD6FF" font-family="Inter, Manrope, Arial, sans-serif" font-size="9.5" font-weight="600" letter-spacing="0.12em">CONTENT BOT</text>
+</svg>
